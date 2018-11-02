@@ -1,0 +1,36 @@
+
+.card .card-content-header{
+	border:1px solid transparent;
+	border-radius: 0;
+	text-transform: capitalize;
+	font-family: Lato;
+	padding: 15px;
+	font-size: 22px;
+}
+.card-row{
+	padding: 0 0 15px;
+}
+.card-row a:hover{
+text-decoration: none;
+}
+.card-row .card-contain{
+	background: white;
+	box-shadow: 5px 5px 5px #f1f1f1;
+	border:1px solid transparent;
+	border-radius: 6px;
+	padding: 0 17px 0;
+}
+.card-row .card-contain .media .media-body{
+	padding: 0 15px 0;
+}
+.card-row .card-contain .media .media-body h5{
+	text-transform: capitalize;
+	
+}
+.card-row .card-contain .media .media-body p{
+	font-size: 13px;
+	font-style: oblique;
+	color: black;
+	font-weight: 500;
+	text-decoration: none;
+}
